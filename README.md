@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Fermentation Science student at CSU exploring how AI, biology, and thought intersect. I build recursive systems to optimize research, debug workflows, and reduce friction—across labs, code, and cognition.
+I'm a Fermentation Science student at CSU exploring how AI, biology, and thought intersect. I build recursive systems to optimize research, debug workflows, and reduce friction - across labs, code, and cognition.
 
 **Philosophy:** *Follow curiosity, solve real problems, automate everything possible.*
 
