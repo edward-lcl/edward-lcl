@@ -75,7 +75,7 @@ Research on Factor(U,T) protocols exploring secure computation with untrusted de
 ### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
 **Recursive Consciousness Debugger**
 
-A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states—merging system design with cognitive mirrors.
+A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states - merging system design with cognitive mirrors.
 
 **Tech Stack:** `Python` `System Design`
 
