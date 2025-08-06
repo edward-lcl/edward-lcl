@@ -16,16 +16,23 @@
 
 ## About Me
 
-I'm pursuing a **B.S. in Fermentation Science** at Colorado State University, focused on bridging **emerging AI capabilities** with **real-world applications**. I build systems that solve actual problems and help integrate AI advancements into society's needs.
+I'm a Fermentation Science student at CSU exploring how AI, biology, and thought intersect. I build recursive systems to optimize research, debug workflows, and reduce friction—across labs, code, and cognition.
 
 **Philosophy:** *Follow curiosity, solve real problems, automate everything possible.*
 
-## 🎯 What I'm Building
+## 🧪 What I'm Building
 
-- **AI-Assisted Research** → Developing methodologies for AI-enhanced R&D processes
-- **Emerging AI Integration** → Building bridges between cutting-edge AI and practical applications  
-- **Process Automation** → Creating tools to automate repetitive research and development tasks
-- **Cross-Industry Applications** → Exploring AI applications across different domains
+- **AI-Augmented Research** → Accelerating experimental workflows through agentic coding and prompt systems  
+- **Recursive Tooling** → Building systems that reflect, adapt, and evolve alongside human thought  
+- **Process Automation** → Reducing cognitive and mechanical friction in research and development  
+- **Domain Transfer Tools** → Applying core ideas across biology, security, cognition, and code
+
+## 🧠 Core Themes
+
+- Recursive system building
+- AI-assisted research workflows
+- Pattern recognition across thought, biology, and behavior
+- Optimizing for truth, not just performance
 
 ## 🚀 Featured Projects
 
@@ -38,7 +45,7 @@ I'm pursuing a **B.S. in Fermentation Science** at Colorado State University, fo
 
 AI-assisted research project on human POP2 protein expression in E. coli. Leveraged AI tools to bridge knowledge gaps and elevate undergraduate research to graduate-level quality.
 
-**Tech Stack:** `Next.js 14` `TypeScript` `AI Integration`
+**Tech Stack:** `Jupyter` `AI Tooling` `SnapGene` `LaTeX` `LangChain`
 
 **Key Achievement:**
 - 🥇 Highest Honors at CURC 2025
@@ -65,6 +72,21 @@ Research on Factor(U,T) protocols exploring secure computation with untrusted de
 <tr>
 <td width="50%">
 
+### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
+**Recursive Consciousness Debugger**
+
+A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states—merging system design with cognitive mirrors.
+
+**Tech Stack:** `Python` `System Design`
+
+**Concept:**
+- Recursive pattern analysis
+- Cognitive state debugging
+- Meta-level thought tools
+
+</td>
+<td width="50%">
+
 ### 🐛 [BCB Deep Equal](https://github.com/edward-lcl/bcb-deep-equal)
 **BigCodeBench Dataset Fix**
 
@@ -78,23 +100,12 @@ Solution for false positive issues in the Factor(U,T) project, contributing to t
 - Enhanced validation methods
 
 </td>
-<td width="50%">
-
-### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
-**Recursive System Analysis**
-
-A recursive consciousness debugger and self-reflection engine for analyzing complex systems and thought processes. Building tools for meta-level system analysis.
-
-**Tech Stack:** `Python` `System Design`
-
-**Concept:**
-- Recursive pattern analysis
-- System state debugging
-- Meta-level analysis tools
-
-</td>
 </tr>
 </table>
+
+### 🧊 Current Work
+- **AI-Assisted Biotech Tool** → Optimizing biological preservation protocols (under NDA)
+- **Research Automation Suite** → Building tools to accelerate lab workflows and data analysis
 
 ## 🏆 Recognition
 
@@ -108,7 +119,7 @@ A recursive consciousness debugger and self-reflection engine for analyzing comp
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **AI & ML:**
@@ -118,10 +129,10 @@ A recursive consciousness debugger and self-reflection engine for analyzing comp
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-**Tools & Platforms:**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Research Tools:**
+![SnapGene](https://img.shields.io/badge/SnapGene-00A651?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🤝 Let's Connect
 
@@ -131,7 +142,7 @@ I'm interested in opportunities involving:
 - Bridging emerging AI capabilities with practical needs
 - Cross-disciplinary projects leveraging AI in novel ways
 
-Always open to discussing AI integration, research methodology, and building tools that make a real impact.
+Always open to discussing AI integration, recursive systems, and building tools that reduce friction between thought and action.
 
 <div align="center">
   
