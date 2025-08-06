@@ -16,14 +16,14 @@
 
 ## 🧬 About Me
 
-I'm a **Fermentation Science** student at Colorado State University, focused on bridging the gap between **emerging AI capabilities** and **real-world applications**. I believe in building systems that solve actual problems and help integrate AI advancements into society's needs.
+I'm pursuing a **B.S. in Fermentation Science** at Colorado State University (2024-2027), focused on bridging the gap between **emerging AI capabilities** and **real-world applications**. I believe in building systems that solve actual problems and help integrate AI advancements into society's needs.
 
 My work spans **AI-assisted research**, **automation**, and **systems design** - always following curiosity and looking for ways to make processes more efficient. I'm particularly interested in how AI can transform R&D processes across industries.
 
 ```python
 class Edward:
     def __init__(self):
-        self.education = "B.S. Fermentation Science @ CSU (2024-2027)"
+        self.education = "Pursuing B.S. Fermentation Science @ CSU (2024-2027)"
         self.interests = ["AI Integration", "Research Automation", "Systems Design", "Emerging Tech"]
         self.approach = "Build tools that bridge the gap between AI capabilities and human needs"
     
@@ -69,25 +69,25 @@ Research on Factor(U,T) protocols exploring secure computation with untrusted de
 <tr>
 <td width="50%">
 
-### 🤖 [AI Integration Platform](https://github.com/edward-lcl/UiS-POP2-v2)
-**Multi-Model AI Service Integration**
+### 🐛 [BCB Deep Equal](https://github.com/edward-lcl/bcb-deep-equal)
+**BigCodeBench Dataset Fix**
 
-Next.js 14 application with native AI capabilities, integrating OpenAI, Anthropic, and Google AI services for research and development workflows.
+Solution for false positive issues in the Factor(U,T) project, contributing to the BigCodeBench dataset accuracy. Implements deep equality checking for complex data structures.
 
-**Tech Stack:** `Next.js 14` `TypeScript` `Multiple AI APIs`
+**Tech Stack:** `Python` `Testing` `Data Validation`
 
-**Features:**
-- Multi-model AI integration
-- Research workflow automation
-- Seamless API management
+**Impact:**
+- Fixes critical false positives
+- Improves dataset reliability
+- Enhanced validation methods
 
 </td>
 <td width="50%">
 
-### 🔄 Node:Zero (In Development)
+### 🔄 [Node:Zero](https://github.com/edward-lcl/node-zero)
 **Recursive System Analysis**
 
-A recursive consciousness debugger and self-reflection engine for analyzing complex systems and thought processes. Currently in active development.
+A recursive consciousness debugger and self-reflection engine for analyzing complex systems and thought processes. Building tools for meta-level system analysis.
 
 **Tech Stack:** `Python` `System Design`
 
@@ -150,7 +150,7 @@ A recursive consciousness debugger and self-reflection engine for analyzing comp
 ## 🏆 Achievements
 
 - 🥇 **Highest Honors** - CURC 2025 for POP2 Protein Expression Research
-- 🎓 **Colorado State University** - B.S. Fermentation Science (2024-2027)
+- 🎓 **Colorado State University** - Pursuing B.S. in Fermentation Science (2024-2027)
 
 ## 🔮 Looking Forward
 
