@@ -40,6 +40,21 @@ I'm a Fermentation Science student at CSU exploring how AI, biology, and thought
 <tr>
 <td width="50%">
 
+### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
+**Recursive Consciousness Debugger**
+
+A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states - merging system design with cognitive mirrors.
+
+**Tech Stack:** `Python` `System Design`
+
+**Concept:**
+- Recursive pattern analysis
+- Cognitive state debugging
+- Meta-level thought tools
+
+</td>
+<td width="50%">
+
 ### 🏆 [POP2 Expression Research](https://github.com/edward-lcl/UiS-POP2-v2)
 **CURC 2025 Highest Honors**
 
@@ -53,6 +68,8 @@ AI-assisted research project on human POP2 protein expression in E. coli. Levera
 - Bridged undergraduate to graduate-level research
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔬 [Factor(U,T) Research](https://github.com/edward-lcl/factor-ut-untrusted-decomposer)
@@ -66,23 +83,6 @@ Research on Factor(U,T) protocols exploring secure computation with untrusted de
 - Protocol design and analysis
 - Security in untrusted environments
 - Theoretical foundations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
-**Recursive Consciousness Debugger**
-
-A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states - merging system design with cognitive mirrors.
-
-**Tech Stack:** `Python` `System Design`
-
-**Concept:**
-- Recursive pattern analysis
-- Cognitive state debugging
-- Meta-level thought tools
 
 </td>
 <td width="50%">
@@ -114,25 +114,12 @@ Solution for false positive issues in the Factor(U,T) project, contributing to t
   <p>Awarded for POP2 Protein Expression Research demonstrating AI-assisted methodology</p>
 </div>
 
-## 💻 Technical Stack
+## 💻 Tech Stack
 
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**AI & ML:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3A5F?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-**Research Tools:**
-![SnapGene](https://img.shields.io/badge/SnapGene-00A651?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages:** Python, TypeScript, Bash  
+**Frameworks & AI:** PyTorch, TensorFlow, LangChain, OpenAI, Anthropic  
+**Research Tools:** Jupyter, SnapGene, LaTeX  
+**Dev Tools:** Git, VS Code, Obsidian
 
 ## 🤝 Let's Connect
 
