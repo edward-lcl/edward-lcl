@@ -84,7 +84,7 @@ Solution for false positive issues in the Factor(U,T) project, contributing to t
 </td>
 <td width="50%">
 
-### 🔄 [Node:Zero](https://github.com/edward-lcl/node-zero)
+### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
 **Recursive System Analysis**
 
 A recursive consciousness debugger and self-reflection engine for analyzing complex systems and thought processes. Building tools for meta-level system analysis.
@@ -173,7 +173,7 @@ I'm always open to discussing:
 ### 📫 Get In Touch
 
 <a href="https://drive.google.com/file/d/1m9Ajs3DULPyDCf4oqk7lVq40DuRvmEYK/view?usp=sharing">
-  <img src="https://img.shields.io/badge/View%20Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </a>
 <a href="mailto:eluecheelip@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
