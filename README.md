@@ -1,37 +1,34 @@
 <!-- Dynamic typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Edward+%F0%9F%91%8B;Fermentation+Scientist+%F0%9F%A7%AC;AI+Research+Engineer+%F0%9F%A4%96;Systems+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Edward+%F0%9F%91%8B;Fermentation+Science+Student+%F0%9F%A7%AC;AI+Research+Engineer+%F0%9F%A4%96;Building+Tomorrow's+Tools+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1m9Ajs3DULPyDCf4oqk7lVq40DuRvmEYK/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lue-chee-lip/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MushuDev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eluecheelip@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edward-lcl)
 
 </div>
 
 ---
 
-<p align="center">
-  <em>"Always designing for what's missing, not just what's expected."</em>
-</p>
-
 ## 🧬 About Me
 
-I'm a **Fermentation Science** student at Colorado State University, passionate about bridging the gap between **synthetic biology** and **artificial intelligence**. My work focuses on developing AI-driven solutions for complex biological systems, research automation, and recursive system design.
+I'm a **Fermentation Science** student at Colorado State University, focused on bridging the gap between **emerging AI capabilities** and **real-world applications**. I believe in building systems that solve actual problems and help integrate AI advancements into society's needs.
+
+My work spans **AI-assisted research**, **automation**, and **systems design** - always following curiosity and looking for ways to make processes more efficient. I'm particularly interested in how AI can transform R&D processes across industries.
 
 ```python
 class Edward:
     def __init__(self):
-        self.current_focus = ["AI Safety", "Synthetic Biology", "Systems Optimization"]
         self.education = "B.S. Fermentation Science @ CSU (2024-2027)"
-        self.research_areas = ["Cryopreservation", "Protein Expression", "Research Automation"]
-        self.philosophy = "Recursive consciousness through code and biology"
+        self.interests = ["AI Integration", "Research Automation", "Systems Design", "Emerging Tech"]
+        self.approach = "Build tools that bridge the gap between AI capabilities and human needs"
     
-    def current_mission(self):
-        return "Building AI systems that understand and optimize biological processes"
+    def philosophy(self):
+        return "Follow curiosity, solve real problems, automate everything possible"
 ```
 
 ## 🚀 Featured Projects
@@ -40,201 +37,149 @@ class Edward:
 <tr>
 <td width="50%">
 
-### 🧊 [CryoProtect](https://github.com/edward-lcl/cryoprotect)
-**AI-Driven Cryopreservation Platform**
+### 🏆 [POP2 Expression Research](https://github.com/edward-lcl/UiS-POP2-v2)
+**CURC 2025 Highest Honors**
 
-An intelligent system that optimizes cryopreservation protocols using machine learning to predict viability outcomes and recommend optimal preservation strategies.
+AI-assisted research project on human POP2 protein expression in E. coli. Leveraged AI tools to bridge knowledge gaps and elevate undergraduate research to graduate-level quality.
 
-**Tech Stack:** `Python` `PyTorch` `FastAPI` `PostgreSQL`
+**Tech Stack:** `Next.js 14` `TypeScript` `AI Integration`
 
-**Key Features:**
-- ML-based viability prediction
-- Protocol optimization engine
-- Real-time monitoring dashboard
-- Research paper integration
+**Key Achievement:**
+- 🥇 Highest Honors at CURC 2025
+- Demonstrated AI-assisted research methodology
+- Bridged undergraduate to graduate-level research
 
 </td>
 <td width="50%">
 
-### 🔄 [Node:Zero](https://github.com/edward-lcl/node-zero)
-**Recursive Consciousness Debugger**
+### 🔬 [Factor(U,T) Research](https://github.com/edward-lcl/factor-ut-untrusted-decomposer)
+**Protocol Research with Untrusted Decomposers**
 
-A self-reflection engine that creates recursive analysis loops for debugging complex systems and thought processes.
+Research on Factor(U,T) protocols exploring secure computation with untrusted decomposers, combining theoretical research with practical implementations.
 
-**Tech Stack:** `Python` `JAX` `LangChain` `Neo4j`
+**Tech Stack:** `Jupyter Notebook` `Python`
 
-**Key Features:**
-- Recursive pattern analysis
-- Self-modifying code generation
-- Consciousness state mapping
-- Meta-cognitive debugging
+**Focus Areas:**
+- Protocol design and analysis
+- Security in untrusted environments
+- Theoretical foundations
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧪 [POP2 Expression Project](https://github.com/edward-lcl/pop2-expression)
-**Award-Winning Protein Research**
+### 🤖 [AI Integration Platform](https://github.com/edward-lcl/UiS-POP2-v2)
+**Multi-Model AI Service Integration**
 
-Research project on optimizing POP2 protein expression in E. coli, awarded highest honors for innovative approach to expression optimization.
+Next.js 14 application with native AI capabilities, integrating OpenAI, Anthropic, and Google AI services for research and development workflows.
 
-**Tech Stack:** `Python` `BioPython` `R` `LaTeX`
+**Tech Stack:** `Next.js 14` `TypeScript` `Multiple AI APIs`
 
-**Achievements:**
-- 🏆 Highest Honors Award
-- 3.5x expression improvement
-- Novel purification protocol
-- Published methodology
+**Features:**
+- Multi-model AI integration
+- Research workflow automation
+- Seamless API management
 
 </td>
 <td width="50%">
 
-### 🤖 [Research Automation Suite](https://github.com/edward-lcl/research-automation)
-**AI-Powered Lab Assistant**
+### 🔄 Node:Zero (In Development)
+**Recursive System Analysis**
 
-Comprehensive automation framework for laboratory workflows, data analysis, and experiment design using LLMs and computer vision.
+A recursive consciousness debugger and self-reflection engine for analyzing complex systems and thought processes. Currently in active development.
 
-**Tech Stack:** `Python` `TensorFlow` `OpenCV` `Docker`
+**Tech Stack:** `Python` `System Design`
 
-**Key Features:**
-- Automated protocol generation
-- Image-based result analysis
-- Experiment optimization
-- Literature mining integration
+**Concept:**
+- Recursive pattern analysis
+- System state debugging
+- Meta-level analysis tools
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <details>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>💻 Programming & Development</b></summary>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-5E60CE?style=flat-square&logo=google&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A5F?style=flat-square&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🧬 Bioinformatics & Research</b></summary>
+<summary><b>🔬 Research & Analysis</b></summary>
 
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![BLAST](https://img.shields.io/badge/BLAST-006699?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-8B0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </details>
 
-<details>
-<summary><b>⚙️ DevOps & Infrastructure</b></summary>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 Development Tools</b></summary>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-</details>
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edward-lcl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-lcl&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edward-lcl&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td width="33%" align="center">
+- 🔬 **AI-Assisted Research** - Developing methodologies for AI-enhanced R&D processes
+- 🤖 **Emerging AI Integration** - Building bridges between cutting-edge AI and practical applications
+- 🧪 **Process Automation** - Creating tools to automate repetitive research and development tasks
+- 🚀 **Cross-Industry Applications** - Exploring AI applications across different domains
 
-### 🔬 Research
-Developing AI models for predicting protein folding in extremophile organisms
+## 🏆 Achievements
 
-</td>
-<td width="33%" align="center">
+- 🥇 **Highest Honors** - CURC 2025 for POP2 Protein Expression Research
+- 🎓 **Colorado State University** - B.S. Fermentation Science (2024-2027)
 
-### 🤖 AI Safety
-Building recursive validation systems for autonomous research agents
+## 🔮 Looking Forward
 
-</td>
-<td width="33%" align="center">
+I'm interested in opportunities that involve:
+- Building AI systems that solve real-world problems
+- Automating and optimizing R&D processes
+- Bridging the gap between emerging AI capabilities and practical needs
+- Cross-disciplinary projects that leverage AI in novel ways
 
-### 🧪 Biotech
-Optimizing fermentation processes using reinforcement learning
-
-</td>
-</tr>
-</table>
-
-## 📈 Activity Graph
-
-[![Edward's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edward-lcl&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Highest Honors** - POP2 Protein Expression Research Project
-- 📜 **AI Safety Fundamentals** - Certified
-- 🧬 **Synthetic Biology Practitioner** - iGEM Participant
-- 🎓 **Dean's List** - Colorado State University
-- 🔬 **Research Excellence Award** - Fermentation Science Department
-
-## 💭 Latest Blog Posts & Thoughts
-
-<!-- BLOG-POST-LIST:START -->
-- 🧠 [Recursive Consciousness: When Code Reflects on Itself](https://github.com/edward-lcl/blog/recursive-consciousness)
-- 🧬 [The Intersection of AI and Synthetic Biology](https://github.com/edward-lcl/blog/ai-synbio)
-- 🔄 [Building Self-Modifying Systems: A Practical Guide](https://github.com/edward-lcl/blog/self-modifying-systems)
-- 🧊 [Cryopreservation: The Future of Biological Storage](https://github.com/edward-lcl/blog/cryopreservation-future)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 I'm always open to discussing:
-- 🧬 Synthetic biology and fermentation optimization
-- 🤖 AI safety and autonomous research systems
-- 🔄 Recursive system design and meta-programming
-- 🔬 Research automation and laboratory workflows
+- 🤖 AI integration and automation
+- 🔬 Research methodology and optimization
+- 💡 Innovative applications of emerging technology
+- 🚀 Building tools that make a real impact
 
 <div align="center">
   
-### 📫 Reach Out
+### 📫 Get In Touch
 
+<a href="https://drive.google.com/file/d/1m9Ajs3DULPyDCf4oqk7lVq40DuRvmEYK/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+</a>
 <a href="mailto:eluecheelip@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/edward-lue-chee-lip/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/MushuDev">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
@@ -243,8 +188,4 @@ I'm always open to discussing:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=edward-lcl&label=Profile%20Views&color=6AD3F5&style=flat-square" alt="Profile Views" />
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling" />
 </div>
