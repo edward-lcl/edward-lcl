@@ -1,163 +1,38 @@
-<!-- Dynamic typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Edward+%F0%9F%91%8B;Fermentation+Science+Student+%F0%9F%A7%AC;AI+Research+Engineer+%F0%9F%A4%96;Building+Tomorrow's+Tools+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+# Edward Lue Chee Lip
 
-<div align="center">
-  
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1m9Ajs3DULPyDCf4oqk7lVq40DuRvmEYK/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lue-chee-lip/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MushuDev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eluecheelip@gmail.com)
+**Self-taught systems builder exploring AI safety through building.**
 
-</div>
+I left fermentation science to teach myself how complex systems work — starting with molecules (cryoprotectant discovery), moving to industrial automation, and now focusing on AI safety evaluation. I build things to understand them.
 
----
+## Current Focus
 
-## About Me
+- **AI Safety Research** — First author at AAAI 2026 on Factor(UT), a protocol for testing deception in decomposed workflows
+- **DeceptionScoop** — Side-channel anomaly detector for deceptive model behavior (latency, token entropy, RAM deltas, GPU power variance)
+- **Applying to Anthropic Fellows** — Scaling research on deception signatures and scalable oversight
 
-I'm a Fermentation Science student at CSU exploring how AI, biology, and thought intersect. I build recursive systems to optimize research, debug workflows, and reduce friction - across labs, code, and cognition.
+## The Path
 
-**Philosophy:** *Follow curiosity, solve real problems, automate everything possible.*
+**Trinidad → Colorado · Self-directed · Interdisciplinary**
 
-## 🧪 What I'm Building
+1. **LAS Retail** — Founded first specialty smoke shop in Trinidad at ~20, navigated regulatory gray zones, executed clean exit
+2. **CryoProtect** — Built computational cryoprotectant discovery pipeline (9,495 molecules, RDKit, PubChem/ChEMBL pipelines)
+3. **POP2 Protein Expression** — 735 μg yield using AI-assisted parameter search (CURC Highest Honors)
+4. **AI Safety** — Applied the same pattern-matching from molecules to AI evaluation
 
-- **AI-Augmented Research** → Accelerating experimental workflows through agentic coding and prompt systems  
-- **Recursive Tooling** → Building systems that reflect, adapt, and evolve alongside human thought  
-- **Process Automation** → Reducing cognitive and mechanical friction in research and development  
-- **Domain Transfer Tools** → Applying core ideas across biology, security, cognition, and code
+## What I Build
 
-## 🧠 Core Themes
+Systems that reflect, evolve, and reduce friction — across code, biology, and thought. Currently building:
 
-- Recursive system building
-- AI-assisted research workflows
-- Pattern recognition across thought, biology, and behavior
-- Optimizing for truth, not just performance
+- **Talos** — Operational intelligence platform for industrial automation (private)
+- **Levi** — Personal AI / digital twin backbone with ontology-driven self-learning
 
-## 🚀 Featured Projects
+## Contact
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔄 [Node:Zero](https://github.com/edward-lcl/NodeZero)
-**Recursive Consciousness Debugger**
-
-A recursive self-reflection engine designed to debug thought patterns, belief systems, and emotional states - merging system design with cognitive mirrors.
-
-**Tech Stack:** `Python` `System Design`
-
-**Concept:**
-- Recursive pattern analysis
-- Cognitive state debugging
-- Meta-level thought tools
-
-</td>
-<td width="50%">
-
-### 🏆 [POP2 Expression Research](https://github.com/edward-lcl/UiS-POP2-v2)
-**CURC 2025 Highest Honors**
-
-AI-assisted research project on human POP2 protein expression in E. coli. Leveraged AI tools to bridge knowledge gaps and elevate undergraduate research to graduate-level quality.
-
-**Tech Stack:** `Jupyter` `AI Tooling` `SnapGene` `LaTeX` `LangChain`
-
-**Key Achievement:**
-- 🥇 Highest Honors at CURC 2025
-- Demonstrated AI-assisted research methodology
-- Bridged undergraduate to graduate-level research
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 [Factor(U,T) Research](https://github.com/edward-lcl/factor-ut-untrusted-decomposer)
-**Protocol Research with Untrusted Decomposers**
-
-Research on Factor(U,T) protocols exploring secure computation with untrusted decomposers, combining theoretical research with practical implementations.
-
-**Tech Stack:** `Jupyter Notebook` `Python`
-
-**Focus Areas:**
-- Protocol design and analysis
-- Security in untrusted environments
-- Theoretical foundations
-
-</td>
-<td width="50%">
-
-### 🐛 [BCB Deep Equal](https://github.com/edward-lcl/bcb-deep-equal)
-**BigCodeBench Dataset Fix**
-
-Solution for false positive issues in the Factor(U,T) project, contributing to the BigCodeBench dataset accuracy. Implements deep equality checking for complex data structures.
-
-**Tech Stack:** `Python` `Testing` `Data Validation`
-
-**Impact:**
-- Fixes critical false positives
-- Improves dataset reliability
-- Enhanced validation methods
-
-</td>
-</tr>
-</table>
-
-### 🧊 Current Work
-- **AI-Assisted Biotech Tool** → Optimizing biological preservation protocols (under NDA)
-- **Research Automation Suite** → Building tools to accelerate lab workflows and data analysis
-
-## 🏆 Recognition
-
-<div align="center">
-  <h3>🥇 CURC 2025 Highest Honors</h3>
-  <p>Awarded for POP2 Protein Expression Research demonstrating AI-assisted methodology</p>
-</div>
-
-## 💻 Tech Stack
-
-**Languages:** Python, TypeScript, Bash  
-**Frameworks & AI:** PyTorch, TensorFlow, LangChain, OpenAI, Anthropic  
-**Research Tools:** Jupyter, SnapGene, LaTeX  
-**Dev Tools:** Git, VS Code, Obsidian
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving:
-- Building AI systems that solve real-world problems
-- Automating and optimizing R&D processes  
-- Bridging emerging AI capabilities with practical needs
-- Cross-disciplinary projects leveraging AI in novel ways
-
-Always open to discussing AI integration, recursive systems, and building tools that reduce friction between thought and action.
-
-<div align="center">
-  
-<a href="https://drive.google.com/file/d/1m9Ajs3DULPyDCf4oqk7lVq40DuRvmEYK/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-</a>
-<a href="mailto:eluecheelip@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/edward-lue-chee-lip/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+- **Email:** eluecheelip@gmail.com
+- **Twitter:** [@MushuDev](https://twitter.com/MushuDev)
+- **Website:** [edward-lcl.github.io](https://edward-lcl.github.io)
+- **Location:** Colorado, USA · Trinidad 🇹🇹
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edward-lcl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-lcl&layout=compact&langs_count=8&theme=tokyonight"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edward-lcl&theme=tokyonight" alt="GitHub Streak" />
-</div>
-</details>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edward-lcl&label=Profile%20Views&color=6AD3F5&style=flat-square" alt="Profile Views" />
-</div>
+*"Not a career researcher — someone who builds things to understand complex systems."*
