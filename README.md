@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edward-lcl.github.io)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1WkRFoXQ7G9kd0zWxtd3JsB-kAk2crgoc/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lue-chee-lip/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MushuDev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edward_lcl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eluecheelip@gmail.com)
 
 </div>
