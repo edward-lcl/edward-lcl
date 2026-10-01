@@ -1,48 +1,17 @@
-<!-- Dynamic typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7EB8F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Edward+%F0%9F%91%8B;High-Leverage+Systems+Builder;Cross-Domain+Thinker;AAAI+2026+First+Author" alt="Typing SVG" />
-</h1>
+# Edward Lue Chee Lip
 
-<div align="center">
+I study how to evaluate and supervise AI agents, and build tools that make experiments easier to inspect and reproduce.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edward-lcl.github.io)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1WkRFoXQ7G9kd0zWxtd3JsB-kAk2crgoc/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-lue-chee-lip/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edward_lcl)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eluecheelip@gmail.com)
+### Selected work
 
-</div>
+- **Terminal-Bench: hardness and verifier audit** — distinguishing genuine task difficulty from task defects and evaluation failures. Poster accepted at the NeurIPS 2026 Verify-Agents workshop; submitted to AAMAS 2027, not accepted. [Related note](https://edward-lcl.github.io/questions/a-zero-needs-adjudication/).
+- **[Factor(U,T)](https://github.com/edward-lcl/factor-ut-untrusted-decomposer)** — testing what a trusted monitor can detect from an untrusted model’s plan. Accepted at the **AAAI 2026 TrustAgent workshop**. [Paper](https://arxiv.org/abs/2512.14745) · [Digest](https://edward-lcl.github.io/research/factor-ut/).
+- **[Eval Evidence](https://github.com/edward-lcl/eval-evidence)** — evaluation records with configuration, artifacts, and file hashes. [Reproducible walkthrough](https://edward-lcl.github.io/work/eval-evidence-walkthrough/).
 
----
+### Recent notes
 
-## About
+- [Optimization without an optimizer](https://edward-lcl.github.io/questions/optimization-without-an-optimizer/)
+- [Do not collapse the spirals](https://edward-lcl.github.io/questions/do-not-collapse-the-spirals/)
+- [One untrusted agent is enough](https://edward-lcl.github.io/questions/one-untrusted-agent-is-enough/)
 
-I build high-leverage systems across domains.
-
-Started in biotech, moved through industrial engineering and entrepreneurship, and ended up in AI research — not by chasing titles, but by following meaningful problems. The throughline isn't a field. It's a way of thinking.
-
-## What I'm Building Now
-
-- **Levi** — personal AI operating system with persistent memory, ontology-driven context, and multi-channel automation
-- **Talos** — enterprise intelligence platform for proposal automation, asset tracking, and supply chain reasoning
-- **Flux** — financial intelligence system for capital flow, market structure, and smart-money analysis
-- **Factor(UT)** — AAAI 2026 paper on monitoring untrusted AI decomposers in code-generation workflows
-
-## Selected Work
-
-- **DeceptionScoop** — side-channel profiler for deceptive model behavior using latency, entropy, and GPU power variance
-- **CryoProtect** — computational cryoprotectant discovery pipeline built around 9,495 candidate molecules
-- **POP2 Protein Expression** — 735 μg/mL yield in yeast and E. coli with AI-supported research workflow design (CURC Highest Honors)
-- **LAS Retail** — founded and operated a specialty retail business in Trinidad, then executed a clean exit
-
-## How I Build
-
-Single-domain expertise is valuable, but increasingly compressible. What’s harder to replace is someone who can move between biotech, financial systems, industrial automation, and AI — and actually connect them.
-
-I build systems with memory, context, and modularity. Not just tools for a task — infrastructure for problems that don’t fit neatly into one box.
-
----
-
-**Location:** Trinidad and Tobago 🇹🇹  
-**Website:** [edward-lcl.github.io](https://edward-lcl.github.io)  
-**Email:** eluecheelip@gmail.com
+[Website](https://edward-lcl.github.io) · [All research & projects](https://edward-lcl.github.io/map/) · [CV](https://edward-lcl.github.io/cv/) · [Email](mailto:eluecheelip@gmail.com) · [LinkedIn](https://www.linkedin.com/in/edward-lue-chee-lip/) · [X](https://x.com/edward_lcl)
