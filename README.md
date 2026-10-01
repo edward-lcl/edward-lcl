@@ -1,5 +1,7 @@
 # Edward Lue Chee Lip
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=4500&amp;pause=2500&amp;color=3778AB&amp;center=false&amp;vCenter=true&amp;repeat=true&amp;width=420&amp;height=36&amp;lines=evaluating+agents%3Bunsupervised%2C+unfortunately." width="420" height="36" alt="evaluating agents · unsupervised, unfortunately." />
+
 I study how to evaluate and supervise AI agents, and build tools that make experiments easier to inspect and reproduce.
 
 ### Selected work
